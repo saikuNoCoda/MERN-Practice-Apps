@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+     "mongodb+srv://pokemon:pokemon@cluster0.3fryv.mongodb.net/books?retryWrites=true&w=majority"
+}
